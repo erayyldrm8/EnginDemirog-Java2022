@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//99999
 		// main javada başlangıç methodudur
 		/* yorum satırı */
 		
